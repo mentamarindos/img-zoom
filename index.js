@@ -1,7 +1,7 @@
 /**
 * Basic script for zoom thumbnail images 
 * @version v1.0.0
-* Copyright (c) 2021 mentamarino
+* Copyright (c) 2021 https://github.com/mentamarindos
 * License MIT
 */
 
