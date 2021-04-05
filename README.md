@@ -1,0 +1,1 @@
+> Basic VanillaJS script for zoom thumbnail images 
